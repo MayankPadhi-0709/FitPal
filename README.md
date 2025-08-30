@@ -37,13 +37,25 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#flow-chart">Flow Chart</a></li>
+    <li><a href="#er-diagram">ER Diagram</a></li>
+    <li>
+      <a href="#-agents-overview">🗂 Agents Overview</a>
+      <ul>
+        <li><a href="#chatbot">ChatBot</a></li>
+        <li><a href="#dashboard">Dashboard</a></li>
+      </ul>
+    </li>
+    <li><a href="#dashboard-preview">Dashboard Preview</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contributors">Contributors</a></li>
   </ol>
 </details>
+
 
 ---
 
@@ -128,17 +140,6 @@ This project is an AI assistant designed to help users manage their health and f
   <img src="https://contrib.rocks/image?repo=MayankPadhi-0709/FitPal" alt="A visual representation of the contributors of this project" />
 </a>
 
-## Contributors
-
-<a href="https://github.com/MayankPadhi-0709/FitPal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MayankPadhi-0709/FitPal" alt="A visual representation of the contributors of this project" />
-</a>
-
-## Contributors
-
-<a href="https://github.com/MayankPadhi-0709/FitPal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MayankPadhi-0709/FitPal" alt="A visual representation of the contributors of this project" />
-</a>
 
 - [Mayank Padhi](https://github.com/MayankPadhi-0709)
 - [Basil Zafar](https://github.com/BasilZafar11)
