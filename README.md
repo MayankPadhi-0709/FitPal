@@ -71,9 +71,9 @@ This project is an AI assistant designed to help users manage their health and f
 [Python.org]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [Python-url]: https://www.python.org
 
-## Agents
+## 🗂 Agents Overview
 
-#### ChatBot
+## ChatBot
 <br>
 | Agent Name        | Purpose                     | Capabilities                                |
 |-------------------|-----------------------------|---------------------------------------------|
@@ -87,6 +87,21 @@ This project is an AI assistant designed to help users manage their health and f
 | *qna*           | Query answering             | Handle queries, show trends, summarize conditions |
 | *scheduler*     | Automations                 | Schedule reminders and periodic tasks         |
 | *conversation-save* | Save interactions       | Store and retrieve past conversations         |
-
-#### Dashboard 
 <br>
+<!-- <img src="Images/"> -->
+
+## Dashboard 
+<br>
+| Agent Name              | Purpose                      | Capabilities                                                                  |
+| ----------------------- | ---------------------------- | ----------------------------------------------------------------------------- |
+| *BloodSugarAgent*     | Blood sugar monitoring       | Fetch daily blood sugar data and generate trend graphs                        |
+| *bloodPressure*       | Blood pressure monitoring    | Fetch daily blood pressure data and generate trend graphs                     |
+| *Daily Sleep*         | Sleep tracking               | Fetch and visualize daily sleep hours consumption                             |
+| *Daily Calories*      | Calorie intake tracking      | Fetch daily calories consumption data                                         |
+| *Daily Carbs*         | Carbohydrate intake tracking | Fetch daily carbs consumption data                                            |
+| *Daily Protein*       | Protein intake tracking      | Fetch daily protein consumption data                                          |
+| *Daily Fats*          | Fat intake tracking          | Fetch daily fats consumption data                                             |
+| *PiChartAgent*        | Nutrition visualization      | Show daily nutrition breakdown using pie chart (cal, protein, carbs, fats)    |
+| *Fetch Patients Data* | Patient data integration     | Retrieve patient’s medical condition, allergies, weight, height from database |
+<br>
+<img src="Images/Dashboard-Image.png" alt="Logo" width="140" height="140">
