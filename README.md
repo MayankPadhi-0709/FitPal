@@ -73,6 +73,14 @@ This project is an AI assistant designed to help users manage their health and f
 
 ---
 
+## ER Diagram
+
+<div align="center">
+  <img src="Images/ER-Diagram.png" alt="Flow Chart" style="width: 100%;">
+</div>
+
+---
+
 ## 🗂 Agents Overview
 
 ### ChatBot
