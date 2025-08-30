@@ -128,16 +128,6 @@ This project is an AI assistant designed to help users manage their health and f
   <img src="https://contrib.rocks/image?repo=MayankPadhi-0709/FitPal" alt="A visual representation of the contributors of this project" />
 </a>
 
-<a href="https://github.com/MayankPadhi-0709">
-  <img src="https://avatars.githubusercontent.com/u/114893095?v=4" width="80" style="border-radius:50%;" alt="Mayank Padhi"/>
-</a>
-<a href="https://github.com/BasilZafar11">
-  <img src="https://avatars.githubusercontent.com/u/139785552?v=4" width="80" style="border-radius:50%;" alt="Basil Zafar"/>
-</a>
-<a href="https://github.com/devyashrasela">
-  <img src="https://avatars.githubusercontent.com/u/148324144?v=4" width="80" style="border-radius:50%;" alt="DevYash Rasela"/>
-</a>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
