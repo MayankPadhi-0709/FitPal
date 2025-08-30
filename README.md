@@ -1,10 +1,9 @@
 <div align="center">
-
+  
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
 
 </div>
 
@@ -21,7 +20,7 @@
 
 ## About The Project
 
-This project is an AI assistant designed to help users manage their health and fitness. It provides a comprehensive solution for tracking daily diets and following personalized health guidelines, whether for specific diet plans or medical conditions. The assistant uses a combination of advanced AI and user-friendly features like voice chat, WhatsApp notifications, and interactive dashboards to make managing your well-being simple and accessible. It's built to help a wide range of people, from fitness enthusiasts and athletes to the elderly and those recovering from illness, giving them the tools they need to achieve their health goals.
+This project is an AI assistant designed to help users manage their health and fitness. It provides a comprehensive solution for tracking daily diets and following personalized health guidelines, whether for specific diet plans or medical conditions. The assistant uses a combination of advanced AI and user-friendly features like chat, email notifications, and interactive dashboards to make managing your well-being simple and accessible. It's built to help a wide range of people, from fitness enthusiasts and athletes to the elderly and those recovering from illness, giving them the tools they need to achieve their health goals.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
