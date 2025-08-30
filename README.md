@@ -58,17 +58,35 @@ This project is an AI assistant designed to help users manage their health and f
 <!-- Build With -->
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![qRaptor.ai][QRaptor.ai]][QRaptor-url]
+* [![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
+* [![Python][Python.org]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+[QRaptor.ai]: https://img.shields.io/badge/qRaptor.ai-000000?style=for-the-badge&logo=appveyor&logoColor=white
+[QRaptor-url]: https://qraptor.ai
+[PostgreSQL.com]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org
+[Python.org]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+[Python-url]: https://www.python.org
 
+## Agents
+
+#### ChatBot
+<br>
+| Agent Name        | Purpose                     | Capabilities                                |
+|-------------------|-----------------------------|---------------------------------------------|
+| *base*          | Health summarization        | Summarize logs, detect risks, generate reports |
+| *health_log*    | Daily vitals logging        | Input BP, weight, sugar, sleep; store records |
+| *medication_log*| Manage medications          | Add, remove, update meds; keep history        |
+| *report*        | Health report generator     | Compile summaries, format, send via email     |
+| *appointment_dates* | Appointment management | Summarize visits, doctor/specialty insights   |
+| *refill_dates*  | Medication refills          | Track schedules, give reminders               |
+| *logging diet*  | Diet & nutrition logging    | Parse meals, store logs, estimate nutrition   |
+| *qna*           | Query answering             | Handle queries, show trends, summarize conditions |
+| *scheduler*     | Automations                 | Schedule reminders and periodic tasks         |
+| *conversation-save* | Save interactions       | Store and retrieve past conversations         |
+
+#### Dashboard 
+<br>
