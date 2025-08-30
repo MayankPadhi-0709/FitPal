@@ -56,16 +56,11 @@
   </ol>
 </details>
 
-
----
-
 ## About The Project
 
 This project is an AI assistant designed to help users manage their health and fitness. It provides a comprehensive solution for tracking daily diets and following personalized health guidelines, whether for specific diet plans or medical conditions. The assistant uses a combination of advanced AI and user-friendly features like voice chat, WhatsApp notifications, and interactive dashboards to make managing your well-being simple and accessible. It's built to help a wide range of people, from fitness enthusiasts and athletes to the elderly and those recovering from illness, giving them the tools they need to achieve their health goals.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
 
 ## Built With
 
@@ -75,23 +70,17 @@ This project is an AI assistant designed to help users manage their health and f
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
-
 ## Flow Chart
 
 <div align="center">
   <img src="Images/FlowChart-Image.png" alt="Flow Chart" style="width: 100%;">
 </div>
 
----
-
 ## ER Diagram
 
 <div align="center">
   <img src="Images/ER-Diagram.png" alt="Flow Chart" style="width: 100%;">
 </div>
-
----
 
 ## 🗂 Agents Overview
 
@@ -132,7 +121,6 @@ This project is an AI assistant designed to help users manage their health and f
   <img src="Images/Dashboard-Image.png" alt="Dashboard Image" style="width: 100%;">
 </div>
 
----
 
 ## Contributors
 
@@ -147,7 +135,6 @@ This project is an AI assistant designed to help users manage their health and f
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
 
 [contributors-shield]: https://img.shields.io/github/contributors/MayankPadhi-0709/FitPal.svg?style=for-the-badge
 [contributors-url]: https://github.com/MayankPadhi-0709/FitPal/graphs/contributors
