@@ -1,12 +1,13 @@
-<a id="readme-top"></a>
+<div align="center">
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors](https://img.shields.io/github/contributors/MayankPadhi-0709/your-repo.svg?style=for-the-badge)](https://github.com/MayankPadhi-0709/your-repo/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/MayankPadhi-0709/your-repo.svg?style=for-the-badge&logo=github)](https://github.com/MayankPadhi-0709/your-repo/network/members)
+[![Stargazers](https://img.shields.io/github/stars/MayankPadhi-0709/your-repo.svg?style=for-the-badge&logo=github)](https://github.com/MayankPadhi-0709/your-repo/stargazers)
+[![Issues](https://img.shields.io/github/issues/MayankPadhi-0709/your-repo.svg?style=for-the-badge)](https://github.com/MayankPadhi-0709/your-repo/issues)
+[![License](https://img.shields.io/github/license/MayankPadhi-0709/your-repo.svg?style=for-the-badge)](https://github.com/MayankPadhi-0709/your-repo/blob/main/LICENSE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-profile-url)
 
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
