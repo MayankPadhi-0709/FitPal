@@ -1,4 +1,4 @@
-<div align="center" id="#readme-top">
+<div align="center">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -10,7 +10,7 @@
 </div>
 
 <br />
-<div align="center">
+<div align="center" id="#readme-top">
   <a href="https://github.com/MayankPadhi-0709/FitPal.git">
     <img src="Images/fitpalLogo.png" alt="Logo" width="140" height="140">
   </a>
