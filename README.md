@@ -83,6 +83,10 @@ This project is an AI assistant designed to help users manage their health and f
 | *conversation-save* | Save interactions       | Store and retrieve past conversations         |
 ---
 
+## ChatBot Preview
+
+<br>
+
 ### Dashboard 
 ---
 | Agent Name              | Purpose                      | Capabilities                                                                  |
@@ -98,11 +102,11 @@ This project is an AI assistant designed to help users manage their health and f
 | *Fetch Patients Data* | Patient data integration     | Retrieve patient’s medical condition, allergies, weight, height from database |
 ---
 
-<br>
-<div align="center">
-  <img src="Images/Dashboard-Image.png" alt="Dashboard Image">
-</div>
+## Dashboard Preview
 
+<div align="center">
+  <img src="Images/Dashboard-Image.png" alt="Dashboard Image" style="width: 100%;">
+</div>
 
 ---
 
